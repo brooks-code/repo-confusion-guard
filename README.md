@@ -3,6 +3,8 @@
 > Millions of malicious forks are flooding GitHub, stealing credentials & crypto.  
 > *More by Dan Goodin [@Ars Technica](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack)*
 
+Check out the longread on [freeCodeCamp](https://www.freecodecamp.org/news/protect-github-repos-from-malicious-clones/)!
+
 ## Table of Contents
 
 - [🛡️ Protect yourself against repo confusion on GitHub](#️-protect-yourself-against-repo-confusion-on-github)

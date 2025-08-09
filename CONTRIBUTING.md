@@ -1,4 +1,4 @@
-# Contributing to this repository confusion cheatsheet
+# Contributing to this repository
 
 First off, thanks for taking the time to contribute!
 
@@ -16,7 +16,7 @@ Click the “Fork” button in the top-right corner of this page.
 
 ```bash
 git clone https://github.com/brooks-code/repo-confusion-guard.git
-cd repo-confusion-guard/
+cd repo-confusion-guard
 ```
 
 ### 3. Create a branch
